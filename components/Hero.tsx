@@ -14,12 +14,12 @@ function Hero() {
           className="absolute left-[-5px] top-[-30px] w-10 lg:w-[50px]"
         />
         <h1 className="bold-52 lg:bold-88">Putuk Truno Camp Area</h1>
-        <p className="regular-16 mt-6 text-gray-30 xl:max-w-[520px]">
+        <p className="regular-16 mt-6 text-gray-30 xl:max-w-[520px] ">
           We want to be on each of your journeys seaking the satisfaction of
           seeing the incorruptible beaty of nature. We can help you on an
           adventure around the world in just one app.
         </p>
-        <div className="wy-11 flex flex-wrap gap-5">
+        <div className="my-11 flex flex-wrap gap-5">
           <div className="flex items-center gap-2">
             {Array(5)
               .fill(1)
